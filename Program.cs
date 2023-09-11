@@ -64,14 +64,14 @@
             Console.WriteLine(@"wassup gang");
 
             Console.WriteLine("whaaaaaaaaa00");
-            string elijahsmells = Console.ReadLine();
-            int elijahsmellsbad = Convert.ToInt32(elijahsmells);
-            int elijahtakesabath = 0;
-            if (elijahsmellsbad > elijahtakesabath)
-                {
-                Console.WriteLine("elijah need to take a bath");
+            //string elijahsmells = Console.ReadLine();
+            //int elijahsmellsbad = Convert.ToInt32(elijahsmells);
+            //int elijahtakesabath = 0;
+            //if (elijahsmellsbad > elijahtakesabath)
+            //    {
+            //    Console.WriteLine("elijah need to take a bath");
 
-            }
+            //}
 
 
 
@@ -91,7 +91,6 @@
             while (smells == false)
             {
                 Console.Write("Smelly ");
-                smells = true;
             }
             Console.WriteLine($"Smelly? {whosSmelly}");
 
