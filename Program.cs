@@ -38,7 +38,6 @@
             while (smells == false)
             {
                 Console.Write("Smelly ");
-                smells = true;
             }
             Console.WriteLine($"Smelly? {whosSmelly}");
 
