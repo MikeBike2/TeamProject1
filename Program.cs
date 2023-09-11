@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.Beep();
             string whosSmelly = "Not me";
             Console.WriteLine("Hello, World, my name is Elijah");
 
@@ -43,6 +44,7 @@
 
 
             Console.WriteLine("what is what was the what whateter wahtaterere");
+            
         }
     }
 }
