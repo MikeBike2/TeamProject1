@@ -28,6 +28,9 @@
                 smells = true;
             }
             Console.WriteLine($"Smelly? {whosSmelly}");
+
+
+            Console.WriteLine("what is what was the what whateter wahtaterere");
         }
     }
 }
